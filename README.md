@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @v3dranop
+- 👋 Hi, I’m @v3dranop, a SysAdmin
 - 👀 I’m interested in Learning DevOps and DevSecOps
-- 🌱 I’m currently learning Terrafrom
+- 🌱 I’m currently learning Helm
 
 
 <!---
