@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v3dranop, a SysAdmin
-- 👀 I’m interested in Learning DevOps and DevSecOps
+- 👀 I’m using this profile for practise.
 - 🌱 I’m currently learning Helm
 
 
